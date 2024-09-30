@@ -55,7 +55,6 @@ fun OnBoardItem(page: OnBoardModel) {
             )
         )
 
-
     }
 
 }
